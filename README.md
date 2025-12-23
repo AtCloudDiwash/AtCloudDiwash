@@ -46,18 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtCloudDiwash&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtCloudDiwash&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtCloudDiwash&theme=radical)
-
-</div>
-
 ## 🌟 What I'm Working On
 
 ```javascript
