@@ -1,8 +1,6 @@
 # Greetings, I'm Diwash Kuskusmiya!
 
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/AtCloudDiwash/count.svg)
 
 ### 🎓 Freshman @ University of Southern Mississippi
 **Dual Major:** Computer Science & Mathematics
