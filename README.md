@@ -1,10 +1,7 @@
 # Greetings, I'm Diwash Kuskusmiya!
 
-<div align="left">
 ### 🎓 Freshman @ University of Southern Mississippi
 **Dual Major:** Computer Science & Mathematics
-</div>
-
 ---
 
 ## 🚀 About Me
