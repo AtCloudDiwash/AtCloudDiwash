@@ -1,21 +1,21 @@
 # Greetings, I'm Diwash Kuskusmiya!
 
-### 🎓 Freshman @ University of Southern Mississippi
+### Freshman @ University of Southern Mississippi
 **Dual Major:** Computer Science & Mathematics
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎯 **Exploring :** LLM Systems & Full Stack Web Development
-- 💡 **Research Enthusiast:** I love reading research papers on RAGs and LLMs. Chain of thought is my favourite (so far).
-- 🛠️ **What Kind of Things I build:** I build tech solutions for real-world problems I encounter — if I see an issue, I code a solution
-- 🧮 Math Lover: I love calculus and vectors
-- 🌱 **Always:** Open to collaboration and learning new technologies
-- 📍 **Location:** Hattiesburg, Mississippi
+- **Exploring :** LLM Systems & Full Stack Web Development
+- **Research Enthusiast:** I love reading research papers on RAGs and LLMs. Chain of thought is my favourite (so far).
+- **What Kind of Things I build:** I build tech solutions for real-world problems I encounter — if I see an issue, I code a solution
+- Math Lover: I love calculus and vectors
+- **Always:** Open to collaboration and learning new technologies
+- **Location:** Hattiesburg, Mississippi
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌟 What I'm Working On
+## What I'm Working On
 
 ```javascript
 const currentGoals = {
@@ -58,7 +58,7 @@ const currentGoals = {
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -71,7 +71,7 @@ const currentGoals = {
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -83,10 +83,10 @@ const currentGoals = {
 
 <div align="center">
 
-### ⭐️ From [Diwash Kuskusmiya](https://github.com/AtCloudDiwash)
+### From [Diwash Kuskusmiya](https://github.com/AtCloudDiwash)
 
 *"Everybody should learn how to program a computer, because it teaches you how to think."* - Steve Jobs
 
-**Thanks for visiting! Feel free to reach out and connect!** 🚀
+**Thanks for visiting! Feel free to reach out and connect!**
 
 </div>
