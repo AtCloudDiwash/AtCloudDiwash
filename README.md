@@ -1,4 +1,4 @@
-# Greetings, I'm Diwash Kuskusmiya!
+# Greetings, I'm Diwash Kuskusmiya! [Portfolio](https://diwashkuskusmiya.com.np/)
 
 ### Sophomore @ University of Southern Mississippi
 **Dual Major:** Computer Science & Mathematics
